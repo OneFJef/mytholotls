@@ -6,6 +6,12 @@
 
 E-commerce site for the sale and education of axolotls.
 
+## Features
+
+- Storefront
+- Learning center
+- Blog
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org/)
