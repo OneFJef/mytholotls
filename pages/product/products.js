@@ -1,0 +1,68 @@
+export const products = [
+  {
+    id: "001",
+    name: "Baby axolotls",
+    short: "Random <6 month old axolotl.",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    price: "$10.00",
+    image: "/images/axo-baby.jpeg",
+  },
+  {
+    id: "002",
+    name: "Teen axolotls",
+    short: "Random 6-12 month old axolotl.",
+    description: "Sit amet tellus cras adipiscing enim eu.",
+    price: "$20.00",
+    image: "/images/axo-teen.jpeg",
+  },
+  {
+    id: "003",
+    name: "Adult axolotls",
+    short: "Random 1-10 year old axolotl.",
+    description: "Nunc mi ipsum faucibus vitae aliquet nec ullamcorper.",
+    price: "$30.00",
+    image: "/images/axo-adult.jpeg",
+  },
+  {
+    id: "004",
+    name: "Senior axolotls",
+    short: "Random >10 year old axolotl.",
+    description: "Aliquet enim tortor at auctor.",
+    price: "$5.00",
+    image: "/images/axo-senior.jpeg",
+  },
+  {
+    id: "001",
+    name: "Baby axolotls",
+    short: "Random <6 month old axolotl.",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    price: "$10.00",
+    image: "/images/axo-baby.jpeg",
+  },
+  {
+    id: "002",
+    name: "Teen axolotls",
+    short: "Random 6-12 month old axolotl.",
+    description: "Sit amet tellus cras adipiscing enim eu.",
+    price: "$20.00",
+    image: "/images/axo-teen.jpeg",
+  },
+  {
+    id: "003",
+    name: "Adult axolotls",
+    short: "Random 1-10 year old axolotl.",
+    description: "Nunc mi ipsum faucibus vitae aliquet nec ullamcorper.",
+    price: "$30.00",
+    image: "/images/axo-adult.jpeg",
+  },
+  {
+    id: "004",
+    name: "Senior axolotls",
+    short: "Random >10 year old axolotl.",
+    description: "Aliquet enim tortor at auctor.",
+    price: "$5.00",
+    image: "/images/axo-senior.jpeg",
+  },
+];
